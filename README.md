@@ -54,14 +54,17 @@ I enjoy working on projects that combine **performance, usability, and practical
 ---
 
 ## ⚡ Current Focus
-- Improving Flutter UI/UX & animations  
-- Designing scalable Firebase systems  
-- Building production-ready applications  
+
+<p align="center">
+Refining <b>application architecture</b> • Improving <b>UI/UX consistency</b> • Building <b>scalable real-time systems</b>
+</p>
 
 ---
 
 ## 💡 Personal Note
-I build apps that are not just functional — but clean, smooth, and user-focused.
+
+I focus on building applications that are <b>structured, reliable, and designed for real-world use</b>, with equal attention to both <b>functionality and user experience</b>.
+</p>
 
 ---
 
