@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Italiya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=4F8CC9&center=true&vCenter=true&width=600&lines=Flutter+Developer;Android+App+Builder;Firebase+Engineer;Clean+UI+%26+Real-time+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=4F8CC9&center=true&vCenter=true&width=650&lines=Building+Real-World+Mobile+%26+Web+Applications;Flutter+%7C+Android+%7C+Web+Development;Clean+Architecture+%7C+Real-Time+Systems;Scalable+%26+User-Focused+Solutions" />
 </p>
 
 ---
